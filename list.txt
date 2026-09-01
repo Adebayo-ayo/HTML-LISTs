@@ -1,0 +1,16 @@
+lists
+1.ordered list - ul
+2. Unordered list - ol
+3. Descriptive list - dl
+short cuts
+copy and paste with out highlight
+mulitiply tags by number of needed li*5 
+for tags and children tag ul>li*68
+
+AI
+Claude Anthropic sonnet pous fable 
+github copilot microsoft
+Gemini  
+
+
+prompt engineeering and its techniques
